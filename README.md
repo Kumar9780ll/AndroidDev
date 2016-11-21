@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-### this is an app
+### this is an ANDROID app
 
 =======
 # Habit
